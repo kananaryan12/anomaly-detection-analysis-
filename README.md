@@ -110,17 +110,4 @@ Authorization: Bearer <your-jwt-token>
 #### 7️⃣ Delete User (Protected)
 **Endpoint:** `DELETE /api/users/:id`
 
-## Deployment
-This project can be deployed using **Render** or **Railway**.
-
-### Deploy on Render
-1. **Push Code to GitHub**
-2. **Create a Web Service** on [Render](https://render.com/)
-3. **Connect to GitHub Repository**
-4. **Set Environment Variables** in Render Dashboard
-5. Click **Deploy** and get a live API URL.
-
-## Author
-Developed by **Your Name** for the **Backend Developer Internship Assignment**.
-
 
